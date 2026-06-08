@@ -1,0 +1,1 @@
+WeatherSync web application using OpenWeatherApi
